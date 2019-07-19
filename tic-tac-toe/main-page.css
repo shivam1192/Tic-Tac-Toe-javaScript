@@ -1,0 +1,107 @@
+.row1{
+    border:2px solid #05386b;
+    text-align: center;
+    width:15%;
+    height: 120px;
+   
+}
+.flex{
+    display: flex;
+    margin-left:35%;
+}
+.center{
+    position: relative;
+    margin-top:41px;
+}
+.row1{
+    color:#1fad6c;
+    font-size:66px;
+    font-family:"MV Boli";
+    cursor:pointer;
+    text-align: center;
+}
+.a1{
+   border-left-color:#1fad6c;
+   border-top-color:#1fad6c ;
+}
+.a2{
+    border-top-color:#1fad6c ;
+ }
+ .a3{
+    border-right-color:#1fad6c;
+    border-top-color:#1fad6c ;
+ }
+ .a4{
+    border-left-color:#1fad6c;
+ }
+ .a6{
+    border-right-color:#1fad6c;
+ }
+ .a7{
+    border-left-color:#1fad6c;
+    border-bottom-color:#1fad6c ;
+ }
+ .a8{
+    border-bottom-color:#1fad6c ;
+ }
+ .a9{
+    border-right-color:#1fad6c;
+    border-bottom-color:#1fad6c ;
+ }
+ .background{
+     border:1px solid black;
+     background-color:#1fad6c;
+     width:99.89%; 
+     overflow:auto;
+     position: absolute;
+     top:0px;
+     left:0px;
+     height:560px;
+ }
+ .footer{
+     border: 1px solid #05386b;
+   position: fixed;
+     bottom:0px;
+     background-color:#05386b;
+     width:99.89%; 
+     overflow:auto;
+     left:0px;
+ }
+ h4{
+     color:#d1f59b;
+     text-align:center;
+     font-family:"Corbel";
+ }
+ h1{
+    color:#d1f59b;
+    text-align:center;
+    font-family:"MV Boli";
+top:20px;
+font-size: 80px;
+ }
+ .button{
+     margin-left:40%;
+     
+ }
+ button {
+    margin-top: 45px;
+    height: 40px;
+    width: 127px;
+    border-radius: 30px 30px 30px 30px;
+    margin-left:69px;
+    background-color: #05386b;
+    color:#d1f59b;
+    border-color:#05386b;
+    cursor: pointer;
+}
+.form-entry{
+  margin-left:33%;
+    height: 50px;
+}
+.s1{
+    margin-top:-12px;
+}
+.s2{
+    margin-left:45%;
+    margin-top:106px;
+}
